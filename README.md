@@ -1,2 +1,1 @@
-# forensic-analysis-iphone
-2012 National Gallery Case - iPhone Analysis
+Cybersecurity boot camp assignment to review the "2012 National Gallery Case" file.  The assignment required analyzing an iPhone's image and detailing the results in a report.   
